@@ -1,0 +1,10 @@
+@import url("wunderbaum");
+
+div#demo-tree {
+    height: 300px
+}
+
+div.wunderbaum {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
