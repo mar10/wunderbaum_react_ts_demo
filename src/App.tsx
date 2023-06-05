@@ -1,6 +1,7 @@
 import {useEffect} from 'react';
 
 import 'bootstrap-icons/font/bootstrap-icons.css'
+import 'wunderbaum/dist/wunderbaum.css'
 import './App.css'
 
 import {Wunderbaum} from 'wunderbaum'
